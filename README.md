@@ -2,8 +2,6 @@
 
 B.Tech Computer Science and Engineering with AI and ML student at VIT Chennai, currently in Semester 5. I build web interfaces, work on relational database design, and explore LLM integrations and AI search.
 
-[View or download my resume](https://sathyanarayanans940-cyber.github.io/) · [Direct PDF](https://sathyanarayanans940-cyber.github.io/resume.pdf)
-
 ## Selected projects
 
 | Project | What it does | Status |
