@@ -2,11 +2,13 @@
 
 B.Tech Computer Science and Engineering with AI and ML student at VIT Chennai, currently in Semester 5. I build web interfaces, work on relational database design, and explore LLM integrations and AI search.
 
+[View or download my resume](https://sathyanarayanans940-cyber.github.io/) · [Direct PDF](https://sathyanarayanans940-cyber.github.io/resume.pdf)
+
 ## Selected projects
 
 | Project | What it does | Status |
 | --- | --- | --- |
-| [Orbit](https://github.com/sathyanarayanans940-cyber/orbit-local-ai-workspace) | Local AI workspace for LM Studio and Ollama, with optional Gemini/DeepSeek APIs and offline document generation | Personal prototype |
+| [Orbit](https://github.com/sathyanarayanans940-cyber/orbit-local-ai-workspace) | Local AI workspace for LM Studio and Ollama, optional Gemini/DeepSeek APIs, offline documents and 21 SVG chart types | Personal prototype |
 | [Cypher](https://github.com/sathyanarayanans940-cyber/cypher-incident-platform) | Illustrated camera simulation and incident management platform | Semester 5 team project, in progress |
 | [A star game agent](https://github.com/sathyanarayanans940-cyber/astar-game-agent) | A* grid navigation with weighted safety heuristics and recorded experiments | Semester 4 coursework |
 | [Food admin portal](https://github.com/sathyanarayanans940-cyber/food-admin-portal) | React, Express and SQLite restaurant/menu administration | Semester 4 coursework |
